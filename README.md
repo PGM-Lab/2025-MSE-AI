@@ -8,7 +8,7 @@
 
 ## Part 2 (10.30am-11.45am)
 * [Slides](https://github.com/PGM-Lab/2025-MSE-AI/raw/main/AfterLunch/probAI-day2_after_lunch.pdf)
-* Notebook: [Bayesian_linear_regression](https://colab.research.google.com/github/PGM-Lab/2025-MSE-AI/blob/main/AfterLunch/notebooks/bayesian_linear_regression.ipynb)
+* Notebook: [Bayesian Linear Regression](https://colab.research.google.com/github/PGM-Lab/2025-MSE-AI/blob/main/AfterLunch/notebooks/BayesianLinearRegression.ipynb)
 * Notebook: [students_bayesian_logistic_regression](https://colab.research.google.com/github/PGM-Lab/2025-MSE-AI/blob/main/AfterLunch/notebooks/students_bayesian_logistic_regression.ipynb)
 * Notebook: [solutions_bayesian_logistic_regression](https://colab.research.google.com/github/PGM-Lab/2025-MSE-AI/blob/main/AfterLunch/notebooks/solutions_bayesian_logistic_regression.ipynb)
 * Notebook: [BayesianNeuralNetworks](https://colab.research.google.com/github/PGM-Lab/2025-MSE-AI/blob/main/AfterLunch/notebooks/BayesianNeuralNetworks.ipynb)
