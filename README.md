@@ -8,11 +8,11 @@
 
 ## Part 2 (10.30am-11.45am)
 * [Slides](https://github.com/PGM-Lab/2025-MSE-AI/raw/main/AfterLunch/probAI-day2_after_lunch.pdf)
-* Notebook: [Bayesian Linear Regression](https://colab.research.google.com/github/PGM-Lab/2025-MSE-AI/blob/main/AfterLunch/notebooks/BayesianLinearRegression.ipynb)
-* Notebook: [students_bayesian_logistic_regression](https://colab.research.google.com/github/PGM-Lab/2025-MSE-AI/blob/main/AfterLunch/notebooks/students_bayesian_logistic_regression.ipynb)
-* Notebook: [solutions_bayesian_logistic_regression](https://colab.research.google.com/github/PGM-Lab/2025-MSE-AI/blob/main/AfterLunch/notebooks/solutions_bayesian_logistic_regression.ipynb)
-* Notebook: [BayesianNeuralNetworks](https://colab.research.google.com/github/PGM-Lab/2025-MSE-AI/blob/main/AfterLunch/notebooks/BayesianNeuralNetworks.ipynb)
-* Notebook: [students_VAE](https://colab.research.google.com/github/PGM-Lab/2025-MSE-AI/blob/main/Evening/notebooks/students_VAE.ipynb)
-* Notebook: [solutions_VAE](https://colab.research.google.com/github/PGM-Lab/2025-MSE-AI/blob/main/Evening/notebooks/solutions_VAE.ipynb)
+* Notebook: [Bayesian Linear Regression](https://colab.research.google.com/github/PGM-Lab/2025-MSE-AI/blob/main/notebooks/BayesianLinearRegression.ipynb)
+* Notebook: [students_bayesian_logistic_regression](https://colab.research.google.com/github/PGM-Lab/2025-MSE-AI/blob/main/notebooks/students_bayesian_logistic_regression.ipynb)
+* Notebook: [solutions_bayesian_logistic_regression](https://colab.research.google.com/github/PGM-Lab/2025-MSE-AI/blob/main/notebooks/solutions_bayesian_logistic_regression.ipynb)
+* Notebook: [BayesianNeuralNetworks](https://colab.research.google.com/github/PGM-Lab/2025-MSE-AI/blob/main/AfterLunch/BayesianNeuralNetworks.ipynb)
+* Notebook: [students_VAE](https://colab.research.google.com/github/PGM-Lab/2025-MSE-AI/blob/main/Evening/students_VAE.ipynb)
+* Notebook: [solutions_VAE](https://colab.research.google.com/github/PGM-Lab/2025-MSE-AI/blob/main/Evening/solutions_VAE.ipynb)
 
 
