@@ -1,4 +1,5 @@
-# Introduction to Probabilistic Machine Learning at Summer School on Methods for Statistical Evaluation of AI
+# Introduction to Probabilistic Machine Learning 
+## Summer School on Methods for Statistical Evaluation of AI
 
 
 * [Slides](https://github.com/PGM-Lab/2025-MSE-AI/raw/main/BeforeLunch/probAI-day2_before_lunch.pdf)
